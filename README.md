@@ -60,6 +60,38 @@ echo "<!DOCTYPE html>
 
 sudo systemctl restart apache2
 
+Following the steps below to run the script:
+
+Step 1: Provsion an EC2 instance running ubuntu 20.4
+
+Step 2: OPen port 8000 to allow traffic from anywhere using the security group
+
+Step 3: connect to the webserver via the terminal using SSH Client
+
+Step 4: Open a file, paste the scrip above and close the file using the command below:
+
+*sudo vi install.sh*
+
+Step 5: Change the permission on the file to make an executable using the command below:
+
+*sudo chmod +x install.sh*
+
+Step 6: Run the shell script using the command below. Make sure you read the instructions in the she script to learn how to use it
+
+*/install.sh PUBLIC_IP*
+
+![run script 1](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/9cacae6d-b7ae-4d13-9627-513841c47a4e)
+
+![webserver2](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/9840b6cc-5a0b-45c5-aa17-5fe7299a0a38)
+
+![VI editor script](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/704b3846-979f-426f-a56d-e8f13bfea509)
+
+![vi editor for webserver2](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/ba1efdeb-8fb1-48d7-a2c0-c5fe5d3024ed)
+
+
+
+
+
 
 
 
