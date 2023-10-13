@@ -177,12 +177,25 @@ sudo systemctl restart nginx
 
 *./nginx.sh PUBLIC_IP Webserver-1 Webserver-2*
 
-![Nginx server script installation](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/bd2bdc12-d8d9-4458-bf1a-c787eb11a4e0)
+![Script instal New](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/863d4f71-3fea-48a5-8c0a-2a944dbc3f7a)
 
-
-
+![edited scipt bash](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/7214f0ed-3f91-4921-bd3d-be1caa963d93)
 
 **Verifying the setup**
+
+![browser 143](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/df36d3c6-31ba-41de-902c-f7c84671d6f3)
+
+![browser 171](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/bf4318ee-5de0-4249-8f76-b6f09ed06026)
+
+Automated load balancing with shell scripting exemplifies the synergy between the power of traditional system administration and the demands of today's dynamic, data-driven world. As we conclude this exploration, it is clear that the versatility, efficiency, and precision offered by shell scripting in the realm of load balancing is an invaluable asset for professionals striving to optimize their infrastructure. By embracing this approach, organizations can proactively manage and distribute their workloads, ensuring the seamless operation of their services, even in the face of surging demand and unexpected challenges. In the ever-evolving field of information technology, the capability to adapt and innovate is paramount, and automated load balancing with shell scripting stands as a testament to the ingenuity and resourcefulness of those who seek to harness its potential.
+
+In an era where every microsecond counts and uninterrupted access is non-negotiable, the art of automated load balancing with shell scripts is a potent tool at the disposal of IT professionals. Its promise lies not only in the scripts themselves but in the creative solutions they enable. As the landscape continues to shift and evolve, embracing this approach will undoubtedly prove to be a cornerstone of success in the realm of network infrastructure and server management.
+
+
+
+
+
+
 
 
 
