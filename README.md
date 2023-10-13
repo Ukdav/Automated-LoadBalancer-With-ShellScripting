@@ -88,6 +88,14 @@ Step 6: Run the shell script using the command below. Make sure you read the ins
 
 ![vi editor for webserver2](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/ba1efdeb-8fb1-48d7-a2c0-c5fe5d3024ed)
 
+copy the Public IP address of the two server and place it on your browser, you will get the following display:
+
+![webserver1 on browser](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/74d90942-3f7a-4938-93ed-a30ab633f325)
+
+![webserver2 on browser](https://github.com/Ukdav/Automated-LoadBalancer-With-ShellScripting/assets/139593350/8366009a-552c-4f65-bc56-460c527ffdca)
+
+
+
 
 
 
